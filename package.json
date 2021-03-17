@@ -21,7 +21,7 @@
         "lint:styles": "stylelint \"src/**/*.scss\" --syntax=scss",
         "lint:styles --fix": "stylelint \"src/**/*.scss\" --syntax=scss --fix",
         "lint:scripts": "eslint --color ./src/blocks",
-        "lint:scripts --fix": "eslint --fix --color ./src/blocks",
+        "lint:scripts --fix": "eslint --fix --color ./src/blocks"
     },
     "devDependencies": {
         "@babel/core": "^7.4.3",
